@@ -1,0 +1,2 @@
+c:\users\test\Desktop\Tasks\SalaryBaseSystem\SalaryBaseSystem\bin\Debug\SalaryBaseSystem.exe.config
+c:\users\test\Desktop\Tasks\SalaryBaseSystem\SalaryBaseSystem\obj\Debug\SalaryBaseSystem.csprojResolveAssemblyReference.cache
